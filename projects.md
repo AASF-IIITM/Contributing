@@ -12,6 +12,9 @@
 #### Pynux - Python implementation of popular linux commands.
 * Python
 
+#### Boozingo - Reframe your hangout experience
+* Java (Android) [Play store link will be added soon]
+
 #### spojprobs - Solutions to problems in SPOJ (Good for practising git workflow).
 * C++, Java, Python, Go, Ruby, C
 
