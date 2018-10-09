@@ -33,11 +33,11 @@ A full git tutorial is beyond the scope of this document but this list describes
 
 ## Workflow Overview
 
-These, conceptually, are the steps you will follow in contributing to repositories on Source-aasf:
+These, conceptually , are the steps you will follow in contributing to repositories on Source-aasf:
 
 - Fork a repository and clone it locally.
 - Make a new feature branch; you will make your changes on this branch.
-- Follow The editing workflow to write/edit/document/test code - make frequent, small commits.
+- Follow The editing workflow to write/edit/document/test code - make frequent , small commits.
 - Push changes to feature branch on your fork.
 - From GitHub, ask for your changes to be reviewed to let the maintainers know you have contributions to review.
 - Make a pull request from GitHub.
