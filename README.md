@@ -1,4 +1,4 @@
-# Contributing to Repositories in Source-aasf
+﻿# Contributing to Repositories in Source-aasf
 So you're interested in contributing to Source-aasf? Excellent! We appreciate your invaluable input! We want to make contributing to our projects as easy and transparent as possible, whether it's:
 
 - Reporting a bug
@@ -33,11 +33,11 @@ A full git tutorial is beyond the scope of this document but this list describes
 
 ## Workflow Overview
 
-These, conceptually, are the steps you will follow in contributing to repositories on Source-aasf:
+These, conceptually , are the steps you will follow in contributing to repositories on Source-aasf:
 
 - Fork a repository and clone it locally.
 - Make a new feature branch; you will make your changes on this branch.
-- Follow The editing workflow to write/edit/document/test code - make frequent, small commits.
+- Follow The editing workflow to write/edit/document/test code - make frequent , small commits.
 - Push changes to feature branch on your fork.
 - From GitHub, ask for your changes to be reviewed to let the maintainers know you have contributions to review.
 - Make a pull request from GitHub.
@@ -81,7 +81,7 @@ git branch my-new-feature my-project/master
 git checkout my-new-feature
 ```
 
-* ## Make changes to the code.
+## Make changes to the code.
 Then, to stage these changes run
 `git add .` if you want to add all changed files or `git add <file_names>` if you want to add specific files to the staging area.
 Then commit your changes with a meaningful message
@@ -94,7 +94,7 @@ On GitHub, on your forked repo, switch your branch from dropdown menu to my-new-
 You will see the message of how many commits your branch is ahead of upstream/master.
 Now click on Pull Request, enter a title for the set of changes, and some explanation of what you’ve done. If there is anything you’d like particular attention for, like a complicated change or some code you are not happy with, add the details here.
 
-* ## Revise and push as necessary
+## Revise and push as necessary
 
 You may be asked to make changes in the discussion of the pull request. Make those changes in your local copy, commit them to your local repo and push them to GitHub. GitHub will automatically update your pull request.
 
