@@ -1,11 +1,11 @@
 # Contributing to Repositories in Source-aasf
 So you're interested in contributing to Source-aasf? Excellent! We appreciate your invaluable input! We want to make contributing to our projects as easy and transparent as possible, whether it's:
 
-- Reporting a bug
+- Reporting a Bug
 - Discussing the current state of the code
-- Submitting a fix
-- Proposing new features
-- Becoming a maintainer
+- Submitting a Fix
+- Proposing new Features
+- Becoming a Maintainer
 
 ## We Develop with Github
 We use github to host code, to track issues and feature requests, as well as accept pull requests.
@@ -42,6 +42,7 @@ These, conceptually, are the steps you will follow in contributing to repositori
 - From GitHub, ask for your changes to be reviewed to let the maintainers know you have contributions to review.
 - Make a pull request from GitHub.
 - Revise and push as necessary in response to comments on the pull request. Pushing those changes to GitHub automatically updates the pull request.
+
 
 ## Detailed Workflow
 * ## Fork a repository and clone it locally.
