@@ -1,7 +1,7 @@
 # Project list  
 
 #### student_election - Election Portal for Students in PHP and MySQL using Google Charts API.
-* HTML, CSS, PHP, JavaScript  
+* HTML, CSS, PHP, JavaScript,c# 
 
 #### AutoDel - Delete thousands of files in a click. 
 * Python
