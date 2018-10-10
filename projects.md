@@ -1,4 +1,4 @@
-# Project list  
+# Project list are as follows:  
 
 #### student_election - Election Portal for Students in PHP and MySQL using Google Charts API.
 * HTML, CSS, PHP, JavaScript  
