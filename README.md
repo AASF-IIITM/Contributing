@@ -95,7 +95,6 @@ You will see the message of how many commits your branch is ahead of upstream/ma
 Now click on Pull Request, enter a title for the set of changes, and some explanation of what you’ve done. If there is anything you’d like particular attention for, like a complicated change or some code you are not happy with, add the details here.
 
 * ## Revise and push as necessary
-
 You may be asked to make changes in the discussion of the pull request. Make those changes in your local copy, commit them to your local repo and push them to GitHub. GitHub will automatically update your pull request.
 
 ## Where to contribute?
