@@ -4,7 +4,7 @@
 * HTML, CSS, PHP, JavaScript  
 
 #### AutoDel - Delete thousands of files in a click. 
-* Python
+* Python//giuhsioqw
 
 #### muze - Online music therapist.
 * HTML, CSS, Python (flask)
