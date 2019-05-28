@@ -7,6 +7,8 @@ So you're interested in contributing to Source-aasf? Excellent! We appreciate yo
 - Proposing new features
 - Becoming a maintainer
 
+You can find our Code of Conduct [here](code_of_conduct.md).
+
 ## We Develop with Github
 We use github to host code, to track issues and feature requests, as well as accept pull requests.
 
